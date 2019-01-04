@@ -1,0 +1,26 @@
+﻿  Activities.cpp
+c:\users\addme\source\repos\pcpp\pcpp\customer.h(11): error C2504: 'User': base class undefined
+c:\users\addme\source\repos\pcpp\pcpp\activities.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\addme\source\repos\pcpp\pcpp\activities.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\addme\source\repos\pcpp\pcpp\activities.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\addme\source\repos\pcpp\pcpp\activities.cpp(347): warning C4018: '<': signed/unsigned mismatch
+c:\users\addme\source\repos\pcpp\pcpp\activities.cpp(361): warning C4018: '<': signed/unsigned mismatch
+c:\users\addme\source\repos\pcpp\pcpp\activities.cpp(372): warning C4129: 'S': unrecognized character escape sequence
+c:\users\addme\source\repos\pcpp\pcpp\activities.cpp(395): warning C4018: '<': signed/unsigned mismatch
+c:\users\addme\source\repos\pcpp\pcpp\activities.cpp(420): warning C4018: '<': signed/unsigned mismatch
+c:\users\addme\source\repos\pcpp\pcpp\activities.cpp(433): warning C4129: 'S': unrecognized character escape sequence
+  Admin.cpp
+c:\users\addme\source\repos\pcpp\pcpp\customer.h(11): error C2504: 'User': base class undefined
+  Customer.cpp
+  Order.cpp
+c:\users\addme\source\repos\pcpp\pcpp\order.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  OrderItem.cpp
+  PCPP.cpp
+c:\users\addme\source\repos\pcpp\pcpp\customer.h(11): error C2504: 'User': base class undefined
+  User.cpp
+c:\users\addme\source\repos\pcpp\pcpp\customer.h(11): error C2504: 'User': base class undefined
+c:\users\addme\source\repos\pcpp\pcpp\user.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\addme\source\repos\pcpp\pcpp\user.cpp(93): warning C4018: '<': signed/unsigned mismatch
+c:\users\addme\source\repos\pcpp\pcpp\user.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\addme\source\repos\pcpp\pcpp\orderitem.cpp(16): warning C4717: 'OrderItem::getOrderID': recursive on all control paths, function will cause runtime stack overflow
